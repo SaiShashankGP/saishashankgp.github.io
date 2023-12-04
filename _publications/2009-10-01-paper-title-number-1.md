@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Active Foundational Models for Fault Diagnosis of Electric Motors"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Sriram Anbalagan, Sai Shashank GP, Deepesh Agarwal, Balasubramaniam Natarajan, Babji Srinivasan'
+date: 2023-11-
+venue: 'Engineering Applications of Artificial Intelligence, IFAC Journal'
+paperurl: 'https://arxiv.org/pdf/2311.15516.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Sriram Anbalagan, _Sai Shashank GP_, Deepesh Agarwal, Balasubramaniam Natarajan, Babji Srinivasan
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2311.15516.pdf)
